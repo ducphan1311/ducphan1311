@@ -53,7 +53,20 @@ I build reliable mobile products for banking, fintech, healthcare, e-commerce, a
 </tr>
 </table>
 
-## Featured work
+## 💖 Repositories
+
+<div align="center">
+
+![Public repositories](https://img.shields.io/badge/Public_repositories-22-2563eb?style=flat-square&logo=github)
+![Total stars](https://img.shields.io/badge/Total_stars-13-f59e0b?style=flat-square&logo=github)
+![Total forks](https://img.shields.io/badge/Total_forks-1-10b981?style=flat-square&logo=github)
+![Primary language](https://img.shields.io/badge/Primary_language-Dart-0175C2?style=flat-square&logo=dart)
+
+</div>
+
+> Current public baseline: **22 repositories · 13 stars · 1 fork**. These numbers are a starting point—we will keep improving the projects, documentation, releases, and community value behind them.
+
+### Featured work
 
 | Project | What it demonstrates | Stack | Activity |
 |---|---|---|---|
@@ -87,7 +100,50 @@ I build reliable mobile products for banking, fintech, healthcare, e-commerce, a
 
 > Commercial source code is private. Public repositories focus on reusable components, architecture patterns, experiments, and technical learning.
 
-## Currently learning
+## 📈 Code Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ducphan1311&theme=github_dark" alt="GitHub profile statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ducphan1311&theme=github_dark&utcOffset=7" alt="Productive coding time" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ducphan1311&theme=github_dark" alt="Repositories per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ducphan1311&theme=github_dark" alt="Most committed languages" />
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ducphan1311&theme=github_dark" alt="GitHub contribution activity" />
+
+</div>
+
+> The charts may look modest today. That is intentional: they show the real baseline and will improve as useful code, releases, documentation, tests, and open-source contributions accumulate.
+
+## 🏗️ Building in public
+
+| Track | Current focus | Evidence we want to grow |
+|---|---|---|
+| 📦 Flutter packages | Improve reusable packages and examples | Releases, stars, forks, package adoption |
+| 📱 Mobile architecture | Production-ready Flutter patterns | Tests, documentation, sample applications |
+| ☁️ AWS Data Engineering | Learn by building DEA-C01 labs | Data pipelines, IaC, architecture notes |
+| 🤖 AI engineering | Practical agents and automation | Reproducible tools, workflows, case studies |
+| ✍️ Technical writing | Share lessons from real projects | Articles, diagrams, benchmarks, tutorials |
+
+### Next milestones
+
+- [ ] Publish the first properly versioned Flutter package release.
+- [ ] Add demos, screenshots, architecture diagrams, tests, and CI to featured repositories.
+- [ ] Build and document an end-to-end AWS data pipeline project.
+- [ ] Publish technical notes from mobile, backend, AWS, and AI work.
+- [ ] Make regular, meaningful open-source contributions—quality over artificial commit counts.
+
+<details>
+<summary><strong>Why no WakaTime metrics yet?</strong></summary>
+
+<br />
+
+WakaTime can provide real coding-time, editor, language, and weekly activity metrics. It will be added after tracking is configured on the development environment and enough representative data has accumulated. No fabricated metrics.
+
+</details>
+
+## 🎯 Currently learning
 
 - AWS foundations → Solutions Architect concepts → Data Engineer Associate (DEA-C01)
 - Production-grade data pipelines with S3, Glue, Athena, Redshift, MSK/Kinesis, and orchestration
