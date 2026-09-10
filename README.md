@@ -2,7 +2,7 @@
 
 # Hi, I'm Phan Minh Duc (Danny) 👋
 
-### Mobile Software Engineer · Team Lead · Hanoi, Vietnam
+### Mobile Software Engineer · Hanoi, Vietnam
 
 I build reliable mobile products for banking, fintech, healthcare, e-commerce, and education — with **Flutter** as my core stack and hands-on experience across **iOS, Android, React Native, backend, and cloud**.
 
