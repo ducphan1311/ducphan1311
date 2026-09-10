@@ -16,7 +16,7 @@ I build reliable mobile products for banking, fintech, healthcare, e-commerce, a
 ## About me
 
 - 💼 Software Engineer at **VPBank**, working on corporate digital banking products.
-- 📱 5+ years building production mobile applications; published **6 apps** across the App Store and Google Play.
+- 📱 6+ years building production mobile applications; published **10+ apps** across the App Store and Google Play.
 - 🧭 Experienced in planning, architecture, code review, release delivery, and mentoring engineers.
 - 🏦 Product experience across banking, fintech, healthcare, e-commerce, and education.
 - 🤖 Exploring AI-assisted engineering, developer automation, AWS, and data engineering.
