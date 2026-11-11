@@ -68,13 +68,13 @@ I build reliable mobile products for banking, fintech, healthcare, e-commerce, a
 
 ### Featured work
 
-| Project | What it demonstrates | Stack | Activity |
+| Project | What it demonstrates & Highlights | Stack | Activity |
 |---|---|---|---|
-| [Portfolio](https://github.com/ducphan1311/portfolio) | Product portfolio, case studies, and downloadable resume | HTML / CSS / JavaScript | ![Last commit](https://img.shields.io/github/last-commit/ducphan1311/portfolio?style=flat-square&label=last) |
+| [⚡ Splitbill Zero](https://github.com/ducphan1311/splitbill-zero) | **Idea & UX-driven bill splitting:** Zero-install web flow solving real group expense pain points. End-to-end (A-Z) delivery with Live Camera OCR, realtime collaborative sessions, dynamic VietQR generation, and custom backend (with optional Supabase). | TypeScript / Web / Node.js | ![Stars](https://img.shields.io/github/stars/ducphan1311/splitbill-zero?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ducphan1311/splitbill-zero?style=flat-square&label=last) |
+| [🛡️ AI Review Engine](https://github.com/ducphan1311/ai-review-platform) | **Enterprise AI governance & architecture gate:** Deterministic AST analysis hard-gate (zero hallucination) paired with LLM contextual reasoning & automated code diffs. 100% on-premise execution, Ed25519 licensing, and clean-as-you-code baselines. | Python / Docker / CI/CD / AST | ![Stars](https://img.shields.io/github/stars/ducphan1311/ai-review-platform?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ducphan1311/ai-review-platform?style=flat-square&label=last) |
+| [Portfolio & Resume](https://github.com/ducphan1311/portfolio) | Interactive case studies, engineering portfolio, and dynamic Word/PDF resume builder | HTML / CSS / Python | ![Last commit](https://img.shields.io/github/last-commit/ducphan1311/portfolio?style=flat-square&label=last) |
 | [Tree Navigator](https://github.com/ducphan1311/tree_navigator) | Reusable Flutter package for navigating and managing tree structures | Dart / Flutter | ![Stars](https://img.shields.io/github/stars/ducphan1311/tree_navigator?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ducphan1311/tree_navigator?style=flat-square&label=last) |
 | [Flutter Stream Paging](https://github.com/ducphan1311/flutter_stream_paging) | Stream-driven pagination patterns for Flutter applications | Dart / Flutter | ![Stars](https://img.shields.io/github/stars/ducphan1311/flutter_stream_paging?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ducphan1311/flutter_stream_paging?style=flat-square&label=last) |
-| [Flutter BLoC + GoRouter](https://github.com/ducphan1311/flutter_bloc_go_router_responsive_application) | Responsive Flutter architecture with BLoC and declarative routing | Dart / Flutter | ![Stars](https://img.shields.io/github/stars/ducphan1311/flutter_bloc_go_router_responsive_application?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ducphan1311/flutter_bloc_go_router_responsive_application?style=flat-square&label=last) |
-| [9Router](https://github.com/ducphan1311/9router) | AI model routing and developer tooling experiments | JavaScript | ![Last commit](https://img.shields.io/github/last-commit/ducphan1311/9router?style=flat-square&label=last) |
 
 <details>
 <summary><strong>More repositories</strong></summary>
